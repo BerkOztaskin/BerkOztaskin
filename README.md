@@ -1,6 +1,9 @@
 ### Hi there 👋, My name is Berk
 #### Electrical & Electronic Engineer
 
+<img src="https://github.com/BerkOztaskin/BerkOztaskin/blob/main/banner.png?raw=true" alt="Hello world">
+
+
 [![Berk's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkOztaskin&show_icons=true&theme=dracula)](https://github.com/BerkOztaskin)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkOztaskin&layout=compact)
